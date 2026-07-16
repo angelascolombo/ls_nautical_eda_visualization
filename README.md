@@ -54,8 +54,6 @@ Live view: https://app.powerbi.com/view?r=eyJrIjoiMjhhODBiMWYtNDQ3Zi00YzFkLThlNj
 ---
 ## 📈 Next Steps
 
-* **Advanced Business Analytics:** Implement business metrics and advanced segmentation, such as **RFM Analysis** (Recency, Frequency, Monetary), to uncover customer behavior patterns.
-* **Interactive Dashboard:** Build a dynamic dashboard to visualize sales performance, profitability trends, and key performance indicators (KPIs).
 * **Predictive Cost Modeling:** Develop predictive analyses to anticipate fluctuations in operating and currency exchange costs, structuring proactive financial risk mitigation strategies.
 * **Investigation of seasonal factors:** Conduct an in-depth study of sales seasonality to isolate and identify the internal and external variables driving revenue peaks and troughs.
 * **Customer Behavior Analysis:** Map consumer behavior patterns to structure commercial strategies tailored to each profile.
