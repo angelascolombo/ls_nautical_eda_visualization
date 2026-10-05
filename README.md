@@ -1,4 +1,4 @@
-# LS Nautical: Data Analysis and Visualization
+# LS Nautical: Profitability Analysis
 
 🌐  Leia isto em [Português (BR)](README.pt-br.md)
 
