@@ -19,7 +19,7 @@ The primary objective is to transform transactional and cost data into strategic
 
 * **Charts**
 
-Technical analysis of views: https://angeladata.notion.site/Data-Analysis-and-Visualization-4c2ff79e481383a3854f01ccca6e1e96?pvs=74
+Technical analysis of views: https://angelacolombo.notion.site/LS-Nautical-Part-2-Profitability-Analysis-SQL-3ebea745fe8483259915016668b7271f
 
 <br>
 
