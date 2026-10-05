@@ -19,7 +19,7 @@ O objetivo principal é transformar dados transacionais e de custos em indicador
 
 * **Gráficos**
 
-Análise técnica das visualizações: https://angeladata.notion.site/Data-Analysis-and-Visualization-4c2ff79e481383a3854f01ccca6e1e96?pvs=74
+Análise técnica das visualizações: https://angelacolombo.notion.site/LS-Nautical-Parte-2-An-lise-de-Rentabilidade-SQL-3e6ea745fe848007b851f7e3c389728f
 
 <br>
 
